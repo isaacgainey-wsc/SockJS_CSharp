@@ -1,0 +1,11 @@
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\SimpSockJS\bin\Debug\SimpSockJS.exe.config
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\SimpSockJS\bin\Debug\SimpSockJS.exe
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\SimpSockJS\bin\Debug\SimpSockJS.pdb
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\SimpSockJS\bin\Debug\Newtonsoft.Json.dll
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\SimpSockJS\bin\Debug\StompProtocol.exe
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\SimpSockJS\bin\Debug\websocket-sharp.dll
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\SimpSockJS\bin\Debug\StompProtocol.pdb
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\SimpSockJS\bin\Debug\Newtonsoft.Json.xml
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\SimpSockJS\obj\Debug\SimpSockJSClient.csprojResolveAssemblyReference.cache
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\SimpSockJS\obj\Debug\SimpSockJS.exe
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\SimpSockJS\obj\Debug\SimpSockJS.pdb
